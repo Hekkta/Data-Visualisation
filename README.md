@@ -1,2 +1,2 @@
 # Data_Visualisation
-A variety of different visualisation techniques for data science
+Data visualisation techniques are easily forgotten, so I'll keep examples that I've used here for future reference.
